@@ -1,16 +1,16 @@
 ##مطور السورس
-caes = ["div_victor"]
-casery = "div_victor"
+caes = ["o_p_g"]
+casery = "o_p_g"
 ##ايدي مطور السورس
-caserid = 6906453300
+caserid = 7291869416
 ##قناه السورس
-source = "https://t.me/CORANBM" 
+source = "https://t.me/bdb0b" 
 ch = "CORANBM" 
 ##جروب السورس
-group = "https://t.me/YA_HYA3" 
+group = "https://t.me/bdb0b" 
 ##لوجو السورس
 photosource = "https://t.me/mkptkm/14"
 ##توكن الصانع
-bot_token="7736846760:AAGeDeBt0NBqqArzuOipmrtnpaRxyz8dDjE"
+bot_token="6795500397:AAFifbwU09uB0obUW7qsPC4YY_tEx1L6HTA"
 ##جلسه الاشتراك
-bot_token2="BAFcX10ALH7AEeOGHzSqNqO9kPTu44jp2OadEN6I6b5MG7yA2PLqg3zy8eOjG3jxp9fbm__GWOAhGs9ga16yFc3Fjo7isbAH3cZwO7GUOaVMZ1LvEVN8ay7yLL7sRo9O70KuSYxslCcjPjIDvnwbyNRNFR9paYfLabdIE5oOAP1Ue1Fi9dtSiEalnpvRFHLyri-P-Q0tdi_wZ5V9JBeiGEsvFi9NJATh61Xl1ST3TG6lmRBSJhTGwLnUfDgxZ98PXbqK3cD3oLl3lhQCUdbC90Pf_gGvdtIWTobUpaAaxDyu7UmPdTscD-Y18wN0X-TkxrTKXJDLAlBpIQx5tXl0q-T82i5fbQAAAAGwxrx3AA"
+bot_token2="BACTk80AjkwxmmIatryh4Jf2lk9s45KsotMxnPqHAmPpBX0-EYeERQE24cRpMhQDhvRIYvXYqfD6loD90USGDQ6C9jZq9J1ryJePwbMZwlU2BNIjCb8zQoNZKAHLfLSPI7XsDHNT2QEVJGHVuJjFyU76kiZenyKPPnW4p6Zn8WFvloEHuWZBER7pD-2CmYFcq-xWOSMIha3IE5zMr9GuTrlqS9OlZLOVNIBPcxLSTDPVjfXQ1Q17vJCDkzajrfPcyZVVEMJcDqgcyOeE61QPql7TxxDfa2w-2x-BvgZ8E0XzosNaoAyOxe_qsHj3JuX6ZPt4wilrxaqD6BS4WQX2u727W_HhyAAAAAFaDZmXAA"
