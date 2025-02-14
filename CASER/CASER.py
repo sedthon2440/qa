@@ -87,7 +87,7 @@ off =None
 async def me(client, message):
    if off:
     if not message.from_user.username in DEVS and not message.from_user.username in DEVSs:
-     return await message.reply_text("**المجاني مغلق من قبل المبرمج @C_lMK**")
+     return await message.reply_text("**المجاني مغلق من قبل المبرمج @O_P_G**")
    try:
       await client.get_chat_member(ch, message.from_user.id)
    except:
